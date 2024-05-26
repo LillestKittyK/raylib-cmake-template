@@ -1,3 +1,8 @@
+# Aim
+I took this amazing GitHub from the original creator and added rlImGui and ImGui support so you can have a built in UI with your
+Raylib project to allow you to monitor and change things in your game. It's a very simple template at the moment but works very 
+well!
+
 # Usage
 ```sh
 git clone https://github.com/manuel5975p/raylib-cmake-template.git
