@@ -5,8 +5,8 @@ cd raylib-cmake-template
 mkdir build
 cd build
 cmake .. -DCMAKE_BUILD_TYPE=Debug #Can also be =Release, =RelWithDebInfo, nothing defaults to Debug
-make -j4
-./main
+cmake --build .
+Debug/main.exe (or ./main if you're on macos/linux I believe)
 ```
 # Usage with VSCode
 
