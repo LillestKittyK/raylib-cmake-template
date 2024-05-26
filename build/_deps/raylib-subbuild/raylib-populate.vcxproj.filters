@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\vinto\Documents\raylib_test\raylib-cmake-template\build\_deps\raylib-subbuild\CMakeFiles\48a22716ae65284ff24c80e2abc0565e\raylib-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\vinto\Documents\raylib_test\raylib-cmake-template\build\_deps\raylib-subbuild\CMakeFiles\48a22716ae65284ff24c80e2abc0565e\raylib-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\vinto\Documents\raylib_test\raylib-cmake-template\build\_deps\raylib-subbuild\CMakeFiles\48a22716ae65284ff24c80e2abc0565e\raylib-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\vinto\Documents\raylib_test\raylib-cmake-template\build\_deps\raylib-subbuild\CMakeFiles\48a22716ae65284ff24c80e2abc0565e\raylib-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\vinto\Documents\raylib_test\raylib-cmake-template\build\_deps\raylib-subbuild\CMakeFiles\48a22716ae65284ff24c80e2abc0565e\raylib-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\vinto\Documents\raylib_test\raylib-cmake-template\build\_deps\raylib-subbuild\CMakeFiles\48a22716ae65284ff24c80e2abc0565e\raylib-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\vinto\Documents\raylib_test\raylib-cmake-template\build\_deps\raylib-subbuild\CMakeFiles\48a22716ae65284ff24c80e2abc0565e\raylib-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\vinto\Documents\raylib_test\raylib-cmake-template\build\_deps\raylib-subbuild\CMakeFiles\48a22716ae65284ff24c80e2abc0565e\raylib-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\vinto\Documents\raylib_test\raylib-cmake-template\build\_deps\raylib-subbuild\CMakeFiles\913d03db27150941e8e8e768a855c31d\raylib-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\vinto\Documents\raylib_test\raylib-cmake-template\build\_deps\raylib-subbuild\CMakeFiles\30de86e5a0d6b5622e85d84362350bfd\raylib-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\vinto\Documents\raylib_test\raylib-cmake-template\build\_deps\raylib-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\vinto\Documents\raylib_test\raylib-cmake-template\build\_deps\raylib-subbuild\CMakeFiles\raylib-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{E7BDC7AC-8ED8-3918-BA62-1DE1D6C000C5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

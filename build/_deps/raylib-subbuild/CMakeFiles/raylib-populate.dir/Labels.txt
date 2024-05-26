@@ -1,0 +1,14 @@
+# Target labels
+ raylib-populate
+# Source files and their labels
+C:/Users/vinto/Documents/raylib_test/raylib-cmake-template/build/_deps/raylib-subbuild/CMakeFiles/raylib-populate
+C:/Users/vinto/Documents/raylib_test/raylib-cmake-template/build/_deps/raylib-subbuild/CMakeFiles/30de86e5a0d6b5622e85d84362350bfd/raylib-populate.rule
+C:/Users/vinto/Documents/raylib_test/raylib-cmake-template/build/_deps/raylib-subbuild/CMakeFiles/913d03db27150941e8e8e768a855c31d/raylib-populate-complete.rule
+C:/Users/vinto/Documents/raylib_test/raylib-cmake-template/build/_deps/raylib-subbuild/CMakeFiles/48a22716ae65284ff24c80e2abc0565e/raylib-populate-build.rule
+C:/Users/vinto/Documents/raylib_test/raylib-cmake-template/build/_deps/raylib-subbuild/CMakeFiles/48a22716ae65284ff24c80e2abc0565e/raylib-populate-configure.rule
+C:/Users/vinto/Documents/raylib_test/raylib-cmake-template/build/_deps/raylib-subbuild/CMakeFiles/48a22716ae65284ff24c80e2abc0565e/raylib-populate-download.rule
+C:/Users/vinto/Documents/raylib_test/raylib-cmake-template/build/_deps/raylib-subbuild/CMakeFiles/48a22716ae65284ff24c80e2abc0565e/raylib-populate-install.rule
+C:/Users/vinto/Documents/raylib_test/raylib-cmake-template/build/_deps/raylib-subbuild/CMakeFiles/48a22716ae65284ff24c80e2abc0565e/raylib-populate-mkdir.rule
+C:/Users/vinto/Documents/raylib_test/raylib-cmake-template/build/_deps/raylib-subbuild/CMakeFiles/48a22716ae65284ff24c80e2abc0565e/raylib-populate-patch.rule
+C:/Users/vinto/Documents/raylib_test/raylib-cmake-template/build/_deps/raylib-subbuild/CMakeFiles/48a22716ae65284ff24c80e2abc0565e/raylib-populate-test.rule
+C:/Users/vinto/Documents/raylib_test/raylib-cmake-template/build/_deps/raylib-subbuild/CMakeFiles/48a22716ae65284ff24c80e2abc0565e/raylib-populate-update.rule

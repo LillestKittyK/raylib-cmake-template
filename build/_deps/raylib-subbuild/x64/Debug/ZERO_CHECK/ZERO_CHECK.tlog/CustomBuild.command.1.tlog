@@ -1,0 +1,10 @@
+^C:\USERS\VINTO\DOCUMENTS\RAYLIB_TEST\RAYLIB-CMAKE-TEMPLATE\BUILD\_DEPS\RAYLIB-SUBBUILD\CMAKEFILES\30DE86E5A0D6B5622E85D84362350BFD\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/vinto/Documents/raylib_test/raylib-cmake-template/build/_deps/raylib-subbuild -BC:/Users/vinto/Documents/raylib_test/raylib-cmake-template/build/_deps/raylib-subbuild --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/vinto/Documents/raylib_test/raylib-cmake-template/build/_deps/raylib-subbuild/raylib-populate.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
